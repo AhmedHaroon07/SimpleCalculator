@@ -7,7 +7,8 @@ void arithmetic(){
 	int op = 0;
 	float A = 0;
 	float B = 0;
-
+	//SyedAhmedHaroon
+	
 	cout<<"Select opeartion\n";
 	cout<<"[1] Addition\n";
 	cout<<"[2] Substraction\n";
